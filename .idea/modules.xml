@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GUI_Programming/GUI_Programming.iml" filepath="$PROJECT_DIR$/GUI_Programming/GUI_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1/HW1.iml" filepath="$PROJECT_DIR$/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2/HW2.iml" filepath="$PROJECT_DIR$/HW2/HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3/HW3.iml" filepath="$PROJECT_DIR$/HW3/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW4/HW4.iml" filepath="$PROJECT_DIR$/HW4/HW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming.iml" filepath="$PROJECT_DIR$/JavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week3-1/week3-1.iml" filepath="$PROJECT_DIR$/week3-1/week3-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4-1/week4-1.iml" filepath="$PROJECT_DIR$/week4-1/week4-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week4-2/week4-2.iml" filepath="$PROJECT_DIR$/week4-2/week4-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week8-1/week8-1.iml" filepath="$PROJECT_DIR$/week8-1/week8-1.iml" />
+    </modules>
+  </component>
+</project>
